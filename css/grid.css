@@ -1,15 +1,16 @@
 .container {
     background-color: rgb(240 240 240);
+    position: relative;
 }
 .dot {
-    height: 150px;
-    width: 150px;
+    height: 250px;
+    width: 250px;
     border-radius: 50%;
     border-color: white;
     display: inline-block;
     padding: 10px;
-    margin: 20px;
-    position: center;
+    margin: 20px 0 20px 100px;
+    float: left;
 }
 .dot-red {
     background-color: #E6563B;
