@@ -1,9 +1,14 @@
-
 .container-fluid {
-    background-color: rgb(240	240	240	);
-
+    background-color: rgb(240, 240, 240);
 }
-
+html, body {
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Anton', serif;
+}
+p {
+    font-family: 'Abel', serif;
+}
 h1 h3 {
     font-size: 64px;
     width: 100%;
