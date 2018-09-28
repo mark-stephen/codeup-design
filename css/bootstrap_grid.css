@@ -4,10 +4,10 @@
 html, body {
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Anton', serif;
+    font-family: 'Anton';
 }
 p {
-    font-family: 'Abel', serif;
+    font-family: 'Abel';
 }
 h1 h3 {
     font-size: 64px;
@@ -19,10 +19,8 @@ h1 h3 {
     border-radius: 50%;
     line-height: 100px;
     display: inline-block;
-    padding: 10px;
+    padding: 18px;
     margin: 0;
-
-    font-family: 'Anton', regular;
     font-size: 32px;
 }
 
